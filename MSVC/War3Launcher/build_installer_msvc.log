@@ -1,0 +1,11 @@
+执行: binarycreator -f -c config/config.xml -p packages War3Launcher_MSVC_Installer.exe 
+ 
+✓ 打包成功! 
+安装程序: D:\Qt_\War3BuildInstaller\MSVC\War3Launcher\War3Launcher_MSVC_Installer.exe 
+文件大小: 53987855 字节 
+✓ 安装程序已复制到源码目录 
+✓ 安装程序已复制到部署目录 
+ 
+======================================== 
+结束时间: 2025/11/07/周五 13:10:24.99 
+======================================== 

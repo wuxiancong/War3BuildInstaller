@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Installer> 
+    <Name>War3Launcher</Name> 
+    <Version>1.0.0</Version> 
+    <Title>War3Launcher Installer</Title> 
+    <Publisher>wuxiancong</Publisher> 
+    <StartMenuDir>War3Launcher</StartMenuDir> 
+    <TargetDir>C:/Program Files (x86)/War3Launcher</TargetDir> 
+    <Logo>installer-logo.png</Logo> 
+    <Banner>installer-banner.png</Banner> 
+    <Background>installer-background.png</Background> 
+    <RunProgram>@TargetDir@/War3Launcher.exe</RunProgram> 
+</Installer> 
